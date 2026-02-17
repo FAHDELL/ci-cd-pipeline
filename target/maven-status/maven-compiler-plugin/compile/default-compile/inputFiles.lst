@@ -1,0 +1,8 @@
+E:\ci-cd pipeline\spring-boot-for-beginners\src\main\java\com\alibou\springdemo\SpringDemoApplication.java
+E:\ci-cd pipeline\spring-boot-for-beginners\src\main\java\com\alibou\springdemo\student\InMemoryStudentService.java
+E:\ci-cd pipeline\spring-boot-for-beginners\src\main\java\com\alibou\springdemo\student\DBStudentService.java
+E:\ci-cd pipeline\spring-boot-for-beginners\src\main\java\com\alibou\springdemo\student\InMemoryStudentDao.java
+E:\ci-cd pipeline\spring-boot-for-beginners\src\main\java\com\alibou\springdemo\student\StudentRepository.java
+E:\ci-cd pipeline\spring-boot-for-beginners\src\main\java\com\alibou\springdemo\student\StudentController.java
+E:\ci-cd pipeline\spring-boot-for-beginners\src\main\java\com\alibou\springdemo\student\Student.java
+E:\ci-cd pipeline\spring-boot-for-beginners\src\main\java\com\alibou\springdemo\student\StudentService.java
